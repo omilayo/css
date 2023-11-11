@@ -1,0 +1,89 @@
+/* styles for the first navbar */
+.banner1{
+    background: #2a3855;
+    display: flex;
+    font-size: smaller;
+    height: 60px;
+}
+
+.banner1 h6{
+    font-size: 14px;
+    color: white;
+    margin-top: 22px;
+}
+
+.time{
+    margin: 22px 0 0 550px !important;
+}
+
+.address{
+    margin-left: 100px;
+}
+
+.num{
+    margin-left: 30px;
+}
+/* styles for the first navbar ends here */
+
+.Purchase{
+    border: 3px solid #2a3855;
+    border-radius: 12px;
+    margin: 0 120px 0 0;
+}
+
+.headertext{
+    position: absolute;
+    bottom: 60% ;
+    left: 10%;
+}
+
+/* styles for the second navbar */
+
+/* styles for the carousai */
+
+.Headertext{
+    font-size: 80px;
+    font-weight: 700;
+    color: #2a3855;
+}
+
+,.subtext{
+    font-size: 40px;
+    font-weight: 400;
+    color: #2a3855;
+    margin: 10px 0 0 80px !important;
+}
+
+.read{
+    background-color: #2a3855;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    height: 40px;
+    width: 130px;
+    margin: 30px 0 20px 80px;
+}
+
+.contact{
+    background-color: #fdda48;
+    color: #2a3855;
+    border: none;
+    border-radius: 4px;
+    height: 4px;
+    width: 130px;
+    margin: 30px 0 20px 10px;
+}
+
+/* styles for the second navbar ends here */
+
+
+.welome{
+    text-align: center;
+    margin: 100px 0 0 0 !important;
+}
+
+.welome h2{
+    color: #2a3855;
+    font-size: 20px;
+    font-weight: 400;
+}
